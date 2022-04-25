@@ -12,7 +12,7 @@ public class DaireAlan {
         a=inp.nextInt();
 
         alan=(pi * (r*r) * a) / 360;
-        System.out.println(" DAirenin alanı:"+alan);
+        System.out.println(" DAirenin alanı: "+alan);
 
 
     }
