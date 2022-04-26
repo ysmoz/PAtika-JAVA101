@@ -37,7 +37,7 @@ public class SinifiGecmeDurumu {
             total += music;
         }
 
-        average = total / 5;
+        average = total/ 5;
 
 
         if (average < 55) {
