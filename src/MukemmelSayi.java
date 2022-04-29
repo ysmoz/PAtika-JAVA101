@@ -11,7 +11,7 @@ public class MukemmelSayi {
         System.out.println("Sayi giriniz: ");
         girilenSayi = inp.nextInt();
 
-        for (int i=1; i<girilenSayi;i++){
+        for (int i=1;i<girilenSayi;i++){
             if (girilenSayi%i==0){
                 toplam+=i;
 
