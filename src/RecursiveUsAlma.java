@@ -22,7 +22,7 @@ public class RecursiveUsAlma {
         System.out.print("Us degerini giriniz : ");
         exponent = scan.nextInt();
 
-        System.out.println("Sonuc : "+power(exponent,base));
+        System.out.println("Sonuc :"+power(exponent,base));
 
 
 
